@@ -1,0 +1,36 @@
+6
+B40,Sofea,1000
+M40,Mikael,600
+B40,Adam,1000
+B40,Irene,1000
+M40,Cyntia,600
+B40,Alif,1000
+B40
+
+((6 x 12)x2,54) + 1 x 2,54
+182,88 + 2,54
+185.42
+
+5
+1,John Doe,4 6
+2,Anonymous,5 4
+3,Vohu Manah,6 1
+4,Dora Hariwini,5 4
+5,Kyo,6 7
+3
+165
+130
+200
+
+
+5
+ANGE,Andrew Garfield,18,110933.25
+HAIS,Spectra Vgeist,18,25000.00
+NERA,Frankie,16,999999999.99
+TION,Dorothy White,22,0.00
+VVVV,Michael J,17,100000.00
+3
+NERA
+JOLY
+VVVV
+
